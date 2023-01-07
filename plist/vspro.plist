@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://archive.org/download/video-star-pro-11.2.8-com.videostarpro.zhanyarstore-i-phone-distribution-bureau-/Video%20Star%20Pro_11.2.8_com.videostarpro.zhanyarstore_iPhone%20Distribution%3A%20Bureau%20of%20Hydrology%2C%20Changjiang%20Water%20Resources%20Commission_1671572595.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://www.zhanyar.ml/logo/favicon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://www.zhanyar.ml/logo/favicon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.videostarpro.zhanyarstore</string>
+				<key>bundle-version</key>
+				<string>11.2.8</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>Video Star Pro</string>
+				<key>title</key>
+				<string> 
+Video Star Pro 
+       
+       
+Zhanyar Store 📦   
+
+"لەبوونی هەر کێشەیەک دەتوانی نامە بۆ پەیچی تیلیگرام بنێریت"
+Telegram : zhanyarstore</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
